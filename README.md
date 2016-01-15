@@ -1,1 +1,3 @@
 # PrivateRepository
+# HOMEPATH=...
+# ADMIN=a052022215
